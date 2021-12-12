@@ -5,12 +5,4 @@ title: "Conclusions"
 background: ''
 ---
 
-## Primary dataset - Quotebank
-
-- quotebank collects worldwide quotes from media outlets and identifies the speakers including their link to Wikidata
-
-
-
-## Choice of subset
-
-### Clean dataset:
+## What have we learnt and what can we do?
