@@ -3,7 +3,7 @@ email:              #your-email@example.com
 description:        Analysis of female represenation in US written online media
 author:             #Start Bootstrap
 baseurl:            ""
-url:                "https://vfayt99.github.io"
+url:                "https://vfayt99.github.io/femedia/"
 
 # Social Profiles
 twitter_username:   #SBootstrap
@@ -16,6 +16,7 @@ linkedin_username:
 google#_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
+theme: jekyll-theme-clean-blog
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
@@ -24,4 +25,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-theme: jekyll-theme-clean-blog
