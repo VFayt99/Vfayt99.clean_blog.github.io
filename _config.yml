@@ -2,8 +2,8 @@ title:              FEMEDIA
 email:              #your-email@example.com
 description:        Analysis of female represenation in US written online media
 author:             #Start Bootstrap
-baseurl:            ""
-url:                "https://vfayt99.github.io/femedia/"
+baseurl:            "/femedia/"
+url:                "https://vfayt99.github.io"
 
 # Social Profiles
 twitter_username:   #SBootstrap
