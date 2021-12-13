@@ -1,4 +1,11 @@
-I"å<h2 id="primary-dataset---quotebank">Primary dataset - Quotebank</h2>
+I"Ÿ<!-- ---
+layout: post
+title: "DATA"
+# subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+background: '/img/gender-data-gap-davos.jpg'
+--- -->
+
+<h2 id="primary-dataset---quotebank">Primary dataset - Quotebank</h2>
 
 <ul>
   <li>quotebank collects worldwide quotes from media outlets and identifies the speakers including their link to Wikidata</li>

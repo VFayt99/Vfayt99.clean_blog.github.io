@@ -11,12 +11,22 @@
         <li class="nav-item">
           <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/posts" | relative_url }}">Posts</a>
-        </li>
+        {% for post in site.posts offset:2 limit:1 %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">DATA</a>
+          </li>
+        {% endfor %}
+        {% for post in site.posts offset:1 limit:1 %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">Analysis</a>
+          </li>
+        {% endfor %}{% for post in site.posts limit:1 %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">Conclusions</a>
+          </li>
+        {% endfor %}
+
+
         <!-- <li class="nav-item">
           <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
         </li> -->
