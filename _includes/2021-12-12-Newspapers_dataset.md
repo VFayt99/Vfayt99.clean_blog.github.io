@@ -1,13 +1,8 @@
 <!-- ---
 layout: post
-title: "Dataset Construction"
+title: "Conclusions"
 # subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
 background: ''
 --- -->
 
-## Dataset Construction
-
-Women in media have always....
-
-- blabla
-- blabla
+## What have we learnt and what can we do?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conclusions
-description: Getting the Data
+description: "Nice quote or something"
 background: '/img/webpage_GenderMTR.jpg'
 ---
 
