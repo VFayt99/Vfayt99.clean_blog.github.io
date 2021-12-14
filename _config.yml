@@ -7,7 +7,7 @@ url:                "https://vfayt99.github.io"
 
 # Social Profiles
 twitter_username:   #SBootstrap
-github_username:    #StartBootstrap
+github_username:    epfl-ada/ada-2021-project-nasa-flatpat
 facebook_username:  #StartBootstrap
 instagram_username:  
 linkedin_username:
@@ -25,3 +25,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
+
+css_dir: "assets/css" # defaults to "css"
