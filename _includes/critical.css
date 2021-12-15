@@ -75,3 +75,7 @@ a {
     background-color: #1454ca;
     color: white;
   }
+
+  iframe:nth-child(2),iframe:nth-child(3){
+    display:inline-block;
+  }

@@ -1,0 +1,26 @@
+I"1<!-- ---
+layout: post
+title: "Statistics"
+# subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+background: ''
+--- -->
+
+<h4 id="statistics-across-the-us-media-landscape">Statistics across the US Media landscape</h4>
+
+<ul>
+  <li>Number of quotes investigated</li>
+  <li>Number of different news outlets</li>
+  <li>
+    <p>Number of left/right media</p>
+  </li>
+  <li>Number of female quotes</li>
+  <li>
+    <p>Number of female quotes in left/right</p>
+  </li>
+  <li>Number of female editors</li>
+  <li>Number of female quotes in female/male editor quotes</li>
+</ul>
+
+<!-- <iframe src="./img/Interactive/gender_count_high_traffic.html" width ="100%"></iframe> -->
+<iframe width="853" height="480" src="/img/Interactive/gender_count_high_traffic.html" frameborder="0"></iframe>
+:ET

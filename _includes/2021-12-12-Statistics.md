@@ -16,3 +16,6 @@ background: ''
 
 - Number of female editors 
 - Number of female quotes in female/male editor quotes
+
+
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/1.embed"></iframe>
