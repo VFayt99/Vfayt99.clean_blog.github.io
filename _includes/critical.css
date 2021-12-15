@@ -3,6 +3,7 @@ ul1 {
     width: 100%;
     display: table;
     table-layout: fixed;
+    height: 25px;
 }
 ul1 li {
     display: table-cell;
@@ -22,14 +23,10 @@ div#content {
     height: 550px
     /* You may add things like width, height, background-size... */
 }
-div#myFooter {
-    background-color: rgb(0, 0, 0) !important;
-    
-}
 
 footer {
     position: relative;
-    background-color: rgba(0, 0, 0, 1); /* Match the color of the body background */
+    background-color: rgba(0, 0, 0, 0.8); /* Match the color of the body background */
     box-sizing: border-box;
     width: 100%;
     color:white;
@@ -39,4 +36,42 @@ footer {
     box-sizing: border-box;
     padding: 0px;
     width: 100%;
+  }
+a { 
+    text-decoration: none; 
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: rgba(238, 194, 234, 0.8); 
+    color: rgb(255, 255, 255); 
+    border: 2px solid #4caf4f00;
+  }
+  
+  .button1:hover {
+    background-color: #e064cc;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: rgba(85, 131, 231, 0.8); 
+    color: rgb(255, 255, 255); 
+    border: 2px solid #008bba00;
+  }
+  
+  .button2:hover {
+    background-color: #1454ca;
+    color: white;
   }

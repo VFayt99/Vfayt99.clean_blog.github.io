@@ -28,22 +28,43 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
-
+        <br>
         <hr>
+        <br>
+        <div class="clearfix">
 
-        <!-- <div class="clearfix">
-
-          {% if page.previous.url %}
-          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
-              Post</span></a>
-          {% endif %}
           {% if page.next.url %}
-          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
-              Post</span> &rarr;</a>
+          <a class="btn btn-primary1 float-left hover" style= "color: white; width:200px; : violet;" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" >&larr; {{ page.next.title }}<span class="d-none d-md-inline"></span></a>
+              <!-- data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}" -->
           {% endif %}
-
-        </div> -->
+          {% if page.previous.url %}
+          <a class="btn btn-primary2 float-right buttonhover2" style="wolor: white; width:200px" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" >{{ page.previous.title }}<span class="d-none d-md-inline"></span> &rarr;</a>
+          {% endif %}
+           
+        </div>
 
       </div>
     </div>
   </div>
+
+
+  <footer style="background-color: white; color:rgb(0, 0, 0)" >
+    <!-- <div id="myFooter"> -->
+      <div class="row" style="width:100%">
+        <div class="col-lg-10/12 col-md-12/12 mx-auto">
+          <ul class="list-inline text-center">
+            {% if site.github_username %}
+            <li class="list-inline-item">
+              <a href="https://github.com/{{ site.github_username }}" style="text-decoration: none">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            {% endif %}
+          </ul>      
+          <p class="copyright text-muted">Copyright &copy; FEMEDIA </p>
+        </div>
+      </div>
+  </footer>

@@ -138,7 +138,26 @@ layout: default
         </div>
       </div>
   
-    
+      <footer style="color: white;">
+        <!-- <div id="myFooter"> -->
+          <div class="row" style="width:100%">
+            <div class="col-lg-10/12 col-md-12/12 mx-auto">
+              <ul1 class="list-inline text-center">
+                {% if site.github_username %}
+                <li class="list-inline-item">
+                  <a href="https://github.com/{{ site.github_username }}">
+                    <span class="fa-stack fa-lg">
+                      <i class="fas fa-circle fa-stack-2x"></i>
+                      <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+                {% endif %}
+              </ul1>
+              <p class="copyright text-muted">Copyright &copy; FEMEDIA </p>
+            </div>
+          </div>
+      </footer> 
     
 
 
