@@ -19,3 +19,8 @@ background: ''
 
 
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/1.embed"></iframe>
+
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/14.embed"></iframe>
+
+
+<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/18.embed"></iframe>
