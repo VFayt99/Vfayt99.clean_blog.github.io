@@ -13,7 +13,7 @@
         </li>
         {% for post in site.posts limit:1 %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">DATA</a>
+            <a class="nav-link" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">Data</a>
           </li>
         {% endfor %}
         {% for post in site.posts offset:1 limit:1 %}
