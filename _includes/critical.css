@@ -40,41 +40,6 @@ footer {
 a { 
     text-decoration: none; 
 }
-.button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-  }
-  
-  .button1 {
-    background-color: rgb(249, 204, 202); 
-    color: rgb(255, 255, 255); 
-    border: 2px solid #4caf4f00;
-  }
-  
-  .button1:hover {
-    background-color: #e064cc;
-    color: white;
-  }
-  
-  .button2 {
-    background-color: rgba(85, 131, 231, 0.8); 
-    color: rgb(255, 255, 255); 
-    border: 2px solid #008bba00;
-  }
-  
-  .button2:hover {
-    background-color: #1454ca;
-    color: white;
-  }
 
   iframe:nth-child(2),iframe:nth-child(3){
     display:inline-block;
