@@ -10,26 +10,26 @@
 }
 
 .btn-primary1 {
-    background-color: rgba(224, 193, 224,0.8);
+    background-color: rgb(249, 204, 202);
     border-color: rgba(224, 193, 224,0);
 
     &:hover,
     &:focus,
     &:active {
         color: $white;
-        background-color: darken(rgba(224, 193, 224,1), 7.5) !important;
+        background-color: darken(rgb(249, 204, 202), 7.5) !important;
         border-color: darken(rgba(224, 193, 224,0), 1) !important;
     }
 }
 .btn-primary2 {
-    background-color: rgba(125, 173, 228, 0.8);
+    background-color: rgb(173, 216, 230);
     border-color: rgba(125, 173, 228, 0);
 
     &:hover,
     &:focus,
     &:active {
         color: $white;
-        background-color: darken(rgba(125, 173, 228,1), 7.5) !important;
+        background-color: darken(rgb(173, 216, 230), 7.5) !important;
         border-color: darken(rgba(125, 173, 228, 0), 0) !important;
     }
 }

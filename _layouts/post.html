@@ -34,11 +34,11 @@ layout: default
         <div class="clearfix">
 
           {% if page.next.url %}
-          <a class="btn btn-primary1 float-left hover" style= "color: white; width:200px; : violet;" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" >&larr; {{ page.next.title }}<span class="d-none d-md-inline"></span></a>
+          <a class="btn btn-primary1 float-left " style= "color: white; width:200px;;" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" >&larr; {{ page.next.title }}<span class="d-none d-md-inline"></span></a>
               <!-- data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}" -->
           {% endif %}
           {% if page.previous.url %}
-          <a class="btn btn-primary2 float-right buttonhover2" style="wolor: white; width:200px" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" >{{ page.previous.title }}<span class="d-none d-md-inline"></span> &rarr;</a>
+          <a class="btn btn-primary2 float-right " style="wolor: white; width:200px" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" >{{ page.previous.title }}<span class="d-none d-md-inline"></span> &rarr;</a>
           {% endif %}
            
         </div>
