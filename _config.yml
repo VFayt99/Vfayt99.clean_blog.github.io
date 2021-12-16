@@ -16,8 +16,8 @@ linkedin_username:
 google#_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-theme: jekyll-theme-clean-blog
 markdown:           kramdown
+remote_theme:       startbootstrap/startbootstrap-clean-blog-jekyll
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
