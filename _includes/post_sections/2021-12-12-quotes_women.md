@@ -7,6 +7,6 @@ background: ''
 
 #### Topics of Quotes by Women
 
-Most prevalent topics of quotes by women and men.
+Proportion of quotes from each topic, for male and female quotes:
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/1.embed"></iframe>
+<iframe width="900" height="500" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/7.embed"></iframe>
