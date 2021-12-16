@@ -7,7 +7,6 @@ background: ''
 
 #### Topics of Quotes by Women
 
-Women in media have always....
+Most prevalent topics of quotes by women and men.
 
-- blabla
-- blabla
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/1.embed"></iframe>
