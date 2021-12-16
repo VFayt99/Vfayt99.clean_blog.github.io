@@ -1,4 +1,4 @@
-I"N	<!-- ---
+I"£	<!-- ---
 layout: post
 title: "Statistics"
 # subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
@@ -60,12 +60,9 @@ background: ''
 
 <h4 id="topics-of-quotes-by-women">Topics of Quotes by Women</h4>
 
-<p>Women in media have alwaysâ€¦.</p>
+<p>Most prevalent topics of quotes by women and men.</p>
 
-<ul>
-  <li>blabla</li>
-  <li>blabla</li>
-</ul>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/1.embed"></iframe>
 
 <!-- ---
 layout: post
