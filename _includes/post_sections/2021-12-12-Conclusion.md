@@ -7,7 +7,8 @@ background: ''
 
 ## What have we learnt and what can we do?
 
-{% include post_sections/carousel1.html width="40%" %}
-{% include post_sections/carousel2.html width="40%" %}
+{% include post_sections/carousel1.html %}
+{% include post_sections/carousel2.html %}
+<br>
 {% include post_sections/carousel_topicybymen.html %}
 {% include post_sections/carousel_topicybywomen.html %}
