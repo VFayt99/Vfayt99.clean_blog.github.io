@@ -1,0 +1,27 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /img/top_quotes_female_about_gdsmm_topic_0.png
+      alt: image one
+    - src: /img/top_quotes_female_about_gdsmm_topic_1.png
+      alt: image two
+    - src: /img/top_quotes_female_about_gdsmm_topic_2.png
+      alt: image three
+  settings:
+    height: "'300'"
+    effect: "'fade'"
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /img/top_quotes_female_about_gdsmm_topic_0.png
+      alt: image one
+    - src: /img/top_quotes_female_about_gdsmm_topic_1.png
+      alt: image two
+    - src: /img/top_quotes_female_about_gdsmm_topic_2.png
+      alt: image three
+  settings:
+    height: "'300'"
+    effect: 

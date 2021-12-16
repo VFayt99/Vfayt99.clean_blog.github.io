@@ -1,6 +1,7 @@
 ---
 layout: home
 background: '/img/webpage_GenderMTR.jpg'
+
 ---
 
 ## The Gender Gap extends into Media - Both in Front of and Behind the Scenes
