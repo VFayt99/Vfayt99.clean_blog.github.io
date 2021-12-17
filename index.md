@@ -17,5 +17,5 @@ To be precise, we are investigating female media representation in the cultural 
 
 ## The DataStory begins… ## LINK TO RESPECTIVE PAGES ON OUR WEBSITE
 
-In a first step we give an overview over the media landscape in the USA: Behind the scenes, we investigate what the proportion of female editors in the subset of largest media outlets is and how this affets the proportion of women being quoted. Then again, this is differentiated under the angle of the political spectrum to which the respective medium is attributed. [4](https://mediabiasfactcheck.com/)
+In a first step we give an overview over the media landscape in the USA: Behind the scenes, we investigate what the proportion of female editors in the subset of largest media outlets is and how this affets the proportion of women being quoted. Then again, this is differentiated under the angle of the political spectrum to which the respective medium is attributed. [Check out Media bias Fact Check!](https://mediabiasfactcheck.com/)
 Since numbers are never enough to paint the full picture, we subsequently dive into analyzing the topics for which women and men are quoted as well as the topics that thematize women and men. Again, this is scrutinized under the light of overall media represenation and the respective left-leaning and right-leaning representatives of US media.
