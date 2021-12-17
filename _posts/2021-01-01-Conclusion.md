@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conclusions
-description: "Nice quote or something"
+description: "Words have power. TV has power. My pen has power. - Shonda Rhimes "
 background: 'img/gender_gap'
 
 
