@@ -18,5 +18,7 @@ For that to happen, all that remains to say is:
 
 <center><p style="font-size: 30px; font-weight:900"><em><b>"Words have power. TV has power. My pen has power."
 <center><p style="font-size: 25px"><em>-Shonda Rhimes
+  
+ So we shall use that power!
 
 
