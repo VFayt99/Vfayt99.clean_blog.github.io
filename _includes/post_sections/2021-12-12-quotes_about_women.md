@@ -5,7 +5,7 @@ title: "Quotes about Women and Men"
 background: ''
 --- -->
 
-#### Quotes about Women
+#### Quotes about Women and Men
 
 Which stories thematizing women make it into an article? Are there recurring themes? 
 What are topics about womenhood that society is wrangling with?
@@ -13,7 +13,8 @@ Can one deduce specific roles women tend to be put in?
 
 Topics about women and men:
 
-<iframe width="900" height="800" frameborder="0" scrolling="yes" src="//plotly.com/~natasakrco/26.embed"></iframe>
+<iframe width="1000" height="1200" frameborder="0" scrolling="yes" src="//plotly.com/~natasakrco/28.embed"></iframe>
+
 
 ##### Most frequent words in Quotes about Women and Men
 
