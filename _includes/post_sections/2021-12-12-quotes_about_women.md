@@ -16,8 +16,9 @@ Now we have an idea of what female and male speakers talk about when quoted in m
 We grouped both the quotes about men and women into seven different topics and again, while of course there is quite some overlap between the topics - such as general & lifestyle, family and politics, there are clearly topics reserved to the respective genders. While women appear second most frequently (after the less interpretable cluster termed “general life”) in the context of family & work, the most common topic cluster for men is service (to the country, military,...) paired with work. Surprisingly, for men the second most important cluster centers around family and almost exclusively so, which is contrary to the thematization jointly between work and family for women -  a topic we also know well as a typical societal problem of the family-work balance apparently only women face …
 
 <div align="center">
-  <img src="./imgs_about/top_quotes_female_about_gdsmm_topic_3.png" height="100" />
-  <img src="./imgs_about/top_quotes_male_about_gdsmm_topic_4.png" height="100" />
+  <img src="./imgs_about/top_quotes_female_about_gdsmm_topic_3.png" height="150" />
+  
+  <img src="./imgs_about/top_quotes_male_about_gdsmm_topic_4.png" height="150" />
 </div>
 
 
