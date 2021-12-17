@@ -17,4 +17,4 @@ Distribution of topics by gender and bias of journal:
 
 ##### Most frequent words in Quotes by Women and Men
 
-{% include post_sections/carousel_topicybymen.html %} {% include post_sections/carousel_topicybywomen.html %}
+{% include post_sections/carousel_topicybywomen.html %} {% include post_sections/carousel_topicybymen.html %}
