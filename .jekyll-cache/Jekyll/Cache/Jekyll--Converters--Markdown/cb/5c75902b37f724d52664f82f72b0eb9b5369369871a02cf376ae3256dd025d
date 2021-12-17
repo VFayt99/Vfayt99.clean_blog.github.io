@@ -1,15 +1,21 @@
-I"þ4<!-- ---
+I"¿6<!-- ---
 layout: post
 title: "Topics of Quotes by Women"
 # subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
 background: ''
 --- -->
 
-<h4 id="topics-of-quotes-by-women">Topics of Quotes by Women</h4>
+<h4 id="topics-of-quotes-by-women-and-men">Topics of Quotes by Women and Men</h4>
 
 <p>Proportion of quotes from each topic, for male and female quotes:</p>
 
 <iframe width="900" height="500" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/7.embed"></iframe>
+
+<p>Distribution of topics by gender and bias of journal:</p>
+
+<iframe width="900" height="800" frameborder="0" scrolling="yes" src="//plotly.com/~natasakrco/11.embed"></iframe>
+
+<iframe width="900" height="800" frameborder="0" scrolling="ye" src="//plotly.com/~natasakrco/14.embed"></iframe>
 
 <h5 id="most-frequent-words-in-quotes-by-women-and-men">Most frequent words in Quotes by Women and Men</h5>
 
@@ -142,6 +148,10 @@ background: ''
 <p>Which stories thematizing women make it into an article? Are there recurring themes? 
 What are topics about womenhood that society is wrangling with?
 Can one deduce specific roles women tend to be put in?</p>
+
+<p>Topics by women:</p>
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/18.embed"></iframe>
 
 <h5 id="most-frequent-words-in-quotes-about-women-and-men">Most frequent words in Quotes about Women and Men</h5>
 
