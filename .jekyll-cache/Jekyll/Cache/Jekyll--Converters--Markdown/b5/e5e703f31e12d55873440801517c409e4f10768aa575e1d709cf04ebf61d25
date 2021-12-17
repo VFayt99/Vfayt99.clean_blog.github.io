@@ -1,0 +1,49 @@
+I"Ã<!-- ---
+layout: post
+title: "DATA"
+# subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+background: '/img/gender-data-gap-davos.jpg'
+--- -->
+
+<h2 id="primary-dataset---quotebank">Primary dataset - <a href="https://quotebank.dlab.tools/">Quotebank</a></h2>
+
+<p>While the original dataset stems from Quotebank and spans comprehensively the English-speaking media world from 2012 to early 2020, for the subsequent analysis we trimmed it down to quotes originating from US media. Furthermore, not all quotes had identified speakers, making it impossible to determine their gender further reducing our starting dataset.</p>
+
+<h2 id="enhanced-dataset">Enhanced dataset</h2>
+
+<p>But then, we had a quite boring dataset not suited to go on an ADAventure into the US media landscape. Beyond the wikilinks to the identified speakers, which were already part of Quotebank, there was not much to explore. Thus we expanded the horizons of our dataset by first of all linking it to the glorious online resource <a href="https://mediabiasfactcheck.com/">Media Bias Fact Check</a>, that provided us exactly with what we needed: They are a comprehensive database of a majority of English speaking (and an even larger portion of American media) and both classify them on their country of origin, factual reporting, their political bias (left-leaning, right-leaning) and the traffic of the respective media webpage. The methodology can be found <a href="https://mediabiasfactcheck.com/methodology/">here</a>.</p>
+
+<p>We subsequently selected all the US media with high traffic since our goal is to investigate mainstream female representation consumed most broadly. Thanks to the binary political structure, we also have a relatively balanced subdataset (see graphs) for media classified as either left- or right-leaning. 
+<br /><br /></p>
+<div class="row">
+      <div class="col-lg-4" style="background-color:rgba(173, 216, 230, 0.5); text-align:center; ">
+            <div class="d-block h-100">
+                <h4 style="color:#858585;"><br />Choosing our subset of data </h4>
+                  <p align="justify"> There are more than a thousand different media sources across the USA. As the actual ratio of sources for each political bias is similar for both all media sources and only high circulation sources, we will only use the latter as to include chief-editors in the the dataset. </p>
+                <hr style="margin: auto;border-color: rgb(173, 216, 230); border-width: 0.25rem; width: 30%;" />
+            </div>
+      </div>
+      <div class="col-lg-8">
+            <div class="d-block h-100">
+                <iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/37.embed"></iframe>
+            </div>
+      </div>
+      
+</div>
+<p><br /><br /></p>
+
+<p>Furthermore, as we are also interested in female representation behind the scenes and according to studies, the situation in the US media landscape is dire <a href="https://womensmediacenter.com/reports/the-status-of-women-in-u-s-media-2019">(find an executive summary on female chief editors)</a>, so we set out to see for ourselves and annotated the approximately 150 highest traffic online media by hand with the current editor-in-chief and their respective gender. This allowed to make very telling statistics that you can explore <a href="https://vfayt99.github.io/femedia/2021/01/02/Analysis.html">here</a>.</p>
+
+<p>As a last step, we then used the wikidata handles to the speakers in the original quotebank to extract the gender of all the quotes we had preselected by the above procedure to obtain our dataset if interest.</p>
+
+<p>Furthermore, to obtain the final datasata amenable for topic analysis we used uniform random sampling across the above formed dataset to obtain a smaller datasize for this task. For equal presentation of the years, the same number of quotes per year were sampled (250 000) rather than percentual. For our topic analyses on the quotes we run an the Gibbs Sampling Dirichlet Multinomial Mixture algorithm - which is the less efficient little sister of LDA - but has shown better results for short text topic analyses with one topic per text sample, as it is most likely the case for quotes appearing in media. <a href="https://towardsdatascience.com/short-text-topic-modelling-lda-vs-gsdmm-20f1db742e14">Background info on GSDMM</a>.</p>
+
+<p><br /><br /></p>
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/40.embed"></iframe>
+
+<p><br />
+<!-- <iframe  width = "100%" height= "300" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/6.embed"></iframe> --></p>
+
+<!-- <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/3.embed"></iframe> -->
+:ET
