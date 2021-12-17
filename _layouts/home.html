@@ -37,7 +37,22 @@ layout: default
     <section class="blog">
       <div class="container">
         <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-          {% for post in site.posts %}
+          {% for post in site.posts limit:3 %}
+            {% include card.html %}
+          {% endfor %}
+
+        </div>
+        <br><br><br>
+      </div>
+    </section>
+  </main>
+  <main class="site__content">
+    <section class="blog" ">
+      <div class="container" ">
+        <div class="post-list" style="display: flex;
+        justify-content: center;
+        align-items: center;" itemtype="http://schema.org/Blog">
+          {% for post in site.posts offset:3 limit:1 %}
             {% include card.html %}
           {% endfor %}
 
@@ -78,11 +93,11 @@ layout: default
                           <h5 style="color: #dddddd;
                           font-family: Arial;
                           font-size: 30px;
-                          font-weight: 600;" >Nataša</h5>
+                          font-weight: 600;" >Nataša Krco</h5>
                           <h5 style="color: #dddddd;
                           font-family: Arial;
                           font-size: 20px;
-                          " >Data Science</h5>
+                          " >Communication Systems</h5>
                            
                         <!-- </div> -->
                   </li>
@@ -100,7 +115,7 @@ layout: default
                           <h5 style="color: #dddddd;
                           font-family: Arial;
                           font-size: 30px;
-                          font-weight: 600;" >Patricia</h5>
+                          font-weight: 600;" >Patricia Brandl</h5>
                           <h5 style="color: #dddddd;
                           font-family: Arial;
                           font-size: 20px;
@@ -122,7 +137,7 @@ layout: default
                           <h5 style="color: #dddddd;
                           font-family: Arial;
                           font-size: 30px;
-                          font-weight: 600;" >Patricia</h5>
+                          font-weight: 600;" >Salome Püntener</h5>
                           <h5 style="color: #dddddd;
                           font-family: Arial;
                           font-size: 20px;
