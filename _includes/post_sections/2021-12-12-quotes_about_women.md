@@ -21,6 +21,8 @@ We grouped both the quotes about men and women into seven different topics and a
   <img src="./imgs_about/top_quotes_male_about_gdsmm_topic_4.png" height="150" />
 </div>
 
+![Quotes about women and men](./imgs_about/top_quotes_female_about_gdsmm_topic_3.png)
+
 Furthermore, very stereotypically, sports is omnipresent as a “men’s topic” and appears for women only as a minor topic paired with culture and leisure connotation reflecting somewhat the importance of professional sports for male teams as opposed to the limited interest in female sport.
 
 <div align="center">
