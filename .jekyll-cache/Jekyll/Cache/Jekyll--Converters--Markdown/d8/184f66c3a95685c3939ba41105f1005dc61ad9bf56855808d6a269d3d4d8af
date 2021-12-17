@@ -1,0 +1,41 @@
+I"‰<!-- ---
+layout: post
+title: "Statistics"
+# subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+background: ''
+--- -->
+
+<h3 id="statistics-across-the-us-media-landscape">Statistics across the US Media landscape</h3>
+
+<ul>
+  <li>Number of quotes investigated</li>
+  <li>Number of different news outlets</li>
+  <li>
+    <p>Number of left/right media</p>
+  </li>
+  <li>Number of female quotes</li>
+  <li>
+    <p>Number of female quotes in left/right</p>
+  </li>
+  <li>Number of quotes per gender in journals of different vias scores:</li>
+</ul>
+<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/3.embed">
+  
+- Female ratio per gender in journals of different vias scores:
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/14.embed"></iframe>
+  
+- Number of female editors 
+</iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/6.embed"></iframe>
+
+<ul>
+  <li>Number of female quotes in female/male editor quotes</li>
+</ul>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/1.embed"></iframe>
+
+<ul>
+  <li>OVerview media, ratio of female quotes in media with info on right/left bias</li>
+</ul>
+<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/18.embed"></iframe>
+
+:ET

@@ -8,8 +8,5 @@ background: 'img/gender_equal'
 
 {% include post_sections/2021-12-12-Statistics.md %}
 
-{% include post_sections/2021-12-12-quotes_about_women.md %}
-
-{% include post_sections/2021-12-12-quotes_women.md %}
 
 
