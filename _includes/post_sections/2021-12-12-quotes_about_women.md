@@ -65,11 +65,10 @@ We could keep on going forever, since there are so many interesting details to d
 ##### Quotes about Women and Men in the context of Editor's Gender and Political Bias
 
 From this analysis, we can see that gender representation in media is still not ideally balanced in many aspects. So far, we have considered the content of the quotes only on the whole common US media outlets. But do these observations apply equally in journals of different political bias?
-Although the general trend is not overwhelmingly different, there are a few oddities: We need to be careful due to the imbalance in first of all right-leaning vs. left-leaning media in the most frequented subset we present here. Looking back at the INTERACTIVE PLOT BY VLAD, you can see that within the right-leaning portion of media, there are no life-style magazines, such as Vanity Fair, Refinery29, etc. potentially covering different types of stories far away from political issues, so this may skew the data. Nevertheless, it is quite remarkable how politics and health & reproductive rights issues are heavily overrepresented in the right-leaning media compared to the overall and left-leaning dataset.
-
+Although the general trend is not overwhelmingly different, there are a few oddities: We need to be careful due to the imbalance in first of all right-leaning vs. left-leaning media in the most frequented subset we present here. Looking back at the bubble plot representing all the media used in our analysis [here](https://vfayt99.github.io/femedia/2021/01/03/stats-Analysis.html), one can see that within the right-leaning portion of media, there are no life-style magazines, such as Vanity Fair, Refinery29, etc. potentially covering different types of stories far away from political issues, so this may skew the data. Nevertheless, it is quite remarkable how politics and health & reproductive rights issues are heavily overrepresented in the right-leaning media compared to the overall and left-leaning dataset. The same trend could be reovered when looking at quotes issued by women!
 
 <iframe width="100%" height="1200" frameborder="0" scrolling="yes" src="//plotly.com/~natasakrco/28.embed"></iframe>
 
-For men, one cannot observe such any big shift in topic distributions.
+For men, on the other side, one cannot observe such any big shift in topic distributions.
 The gender of editors however, has so far no determinable influence on the story choice, hence the representation about men and women. Likely, other factors such as the type of magazine and the author have a higher impact, but this could not be determined in the course of this study.
 
