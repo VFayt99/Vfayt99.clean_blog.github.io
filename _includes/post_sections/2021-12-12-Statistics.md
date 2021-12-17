@@ -48,6 +48,3 @@ background: ''
 <br><br>
 
 
-- OVerview media, ratio of female quotes in media with info on right/left bias
-<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~VFayt99/18.embed"></iframe>
-
