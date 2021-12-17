@@ -61,6 +61,8 @@ We could keep on going forever, since there are so many interesting details to d
 
 {% include post_sections/carousel2.html %} {% include post_sections/carousel1.html %}
 
+<br><br>
+
 
 ##### Quotes about Women and Men in the context of Editor's Gender and Political Bias
 
