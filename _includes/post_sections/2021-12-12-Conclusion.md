@@ -16,13 +16,13 @@ In contrast, “the” female issue in the USA is the ideological battle around 
 Our vision therefore is that when we reconduct this study in 20 years, the topics treated by women have become interchangeable with those of men, by men and all the other minorities for whom we have not even started to investigate represenation…
 For that to happen, all that remains to say is:
 
-***"Words have power. TV has power. My pen has power."***
-*-Shonda Rhimes*
+<center><p style="font-size: 30px; font-weight:900"><em><b>"Words have power. TV has power. My pen has power."
+<center><p style="font-size: 25px"><em>-Shonda Rhimes
+
 
 
 
 {% include post_sections/carousel1.html %}
 {% include post_sections/carousel2.html %}
-<br>
 {% include post_sections/carousel_topicybymen.html %}
 {% include post_sections/carousel_topicybywomen.html %}

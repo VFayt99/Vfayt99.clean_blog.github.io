@@ -18,10 +18,10 @@
     {% endif %}
   </a>
   <a class="post-card__inner" href="{{ post.url | relative_url }}">
-    <div class="post-card__header">
-      <h2>{{ post.title | strip_html | truncate: 50 }}</h2>
+    <div class="post-card__header" color = >
+      <center> <h2 style="color: black;">{{ post.title | strip_html | truncate: 50 }}</h2></center>
 
     </div>
-      <p>{{ post.description | strip_html | truncatewords:20 }}</p>
+  <center><p>{{ post.description | strip_html | truncatewords:20 }}</p></center>
   </a>
 </div>

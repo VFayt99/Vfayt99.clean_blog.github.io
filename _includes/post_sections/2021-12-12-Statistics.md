@@ -5,7 +5,7 @@ title: "Statistics"
 background: ''
 --- -->
 
-#### Statistics across the US Media landscape
+### Statistics across the US Media landscape
 
 - Number of quotes investigated
 - Number of different news outlets
