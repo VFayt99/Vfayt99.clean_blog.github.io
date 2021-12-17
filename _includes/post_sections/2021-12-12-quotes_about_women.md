@@ -26,5 +26,5 @@ Topics about women and men:
 
 ##### Most frequent words in Quotes about Women and Men
 
-{% include post_sections/carousel1.html %} {% include post_sections/carousel2.html %}
+{% include post_sections/carousel2.html %} {% include post_sections/carousel1.html %}
 
