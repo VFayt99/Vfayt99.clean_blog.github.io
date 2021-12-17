@@ -64,6 +64,3 @@ Let us now consider the bubble graph below which plots the ratio of female speak
 <br>
 If we now look more closely to only media sources with female chief-editors we observe that are mostly on the left spectrum and thet the average ratio of quotes from female speakers is slightly higher than for the right leaning media sources. Looking at only male chief-editors, the spectrum of female ratio and political bias is very diverse. However, we can notice that **media sources with male chief-editors are twice more likely to quote women less than 10% of the time**.
 
-<br><br>
-## So what are the main take-aways?
-<br><br>
