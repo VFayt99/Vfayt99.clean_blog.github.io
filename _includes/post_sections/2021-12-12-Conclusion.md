@@ -21,10 +21,8 @@ For that to happen, all that remains to say is:
 
 
 
-{% include post_sections/carousel1.html width="40%" %}
-<br>
-{% include post_sections/carousel2.html width="40%" %}
+{% include post_sections/carousel1.html %}
+{% include post_sections/carousel2.html %}
 <br>
 {% include post_sections/carousel_topicybymen.html %}
-<br>
 {% include post_sections/carousel_topicybywomen.html %}
