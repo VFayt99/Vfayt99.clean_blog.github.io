@@ -18,5 +18,3 @@ Until then, among the many other battles women have to fight, there is nothing l
 
 <center><p style="font-size: 30px; font-weight:900"><em><b>"Words have power. TV has power. My pen has power."
 <center><p style="font-size: 25px"><em>-Shonda Rhimes
-
-
