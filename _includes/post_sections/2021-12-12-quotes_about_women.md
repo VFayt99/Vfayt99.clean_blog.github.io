@@ -11,9 +11,13 @@ Which stories thematizing women make it into an article? Are there recurring the
 What are topics about womenhood that society is wrangling with?
 Can one deduce specific roles women tend to be put in?
 
-Topics by women:
+Topics about women:
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/18.embed"></iframe>
+
+Topics about men:
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/20.embed"></iframe>
 
 ##### Most frequent words in Quotes about Women and Men
 
