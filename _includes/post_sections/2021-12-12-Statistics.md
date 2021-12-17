@@ -37,7 +37,7 @@ So woman are underrepresented in jobs like chief-editors and on top of that it d
 
 ## Gender representation in high traffic US media
 <br><br>
-Let's dive into our quotes dataset. The sunburst plot below shows the share of female versus male speakers. It then also shows the shar of those quotes which come from media sources with male or female chief-editors. Now first of all, let us investigate the distribution of quotes from female versus male speakers. We find ourselves in front of an interesting but somber result - less than 20% of the quotes are from female speakers! We can further investigate to see if female speakers have more quotes if the chief-editors are women. For both male and female speakers about 30% of the quotes come from media sources with female chief-editors. 
+Let's dive into our quotes dataset. The sunburst plot below shows the share of female versus male speakers. It then also shows the share of those quotes which come from media sources with male or female chief-editors. Now first of all, let us investigate the distribution of quotes from female versus male speakers. We find ourselves in front of an interesting but somber result - less than 20% of the quotes are from female speakers! We can further investigate to see if female speakers have more quotes if the chief-editors are women. For both male and female speakers about 30% of the quotes come from media sources with female chief-editors. 
 <br><br><br>
 <div class="row">
     <div class="col-lg-8">
