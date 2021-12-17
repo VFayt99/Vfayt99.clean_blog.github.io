@@ -1,0 +1,388 @@
+I"�a<!-- ---
+layout: post
+title: "Topics of Quotes by Women"
+# subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+background: ''
+--- -->
+
+<h4 id="topics-of-quotes-by-women-and-men">Topics of Quotes by Women and Men</h4>
+
+<p>The female voice in media is underrepresented not only in a quantitative perspective but also in a qualitative perspective and female expert opinions are reportedly underrepresented in certain male-dominated topic fields like politics, governemnt and enonomy and  <a href="https://www.coe.int/en/web/genderequality/women-in-media">8</a>. Let’s see if we can confirm these claims using the data at hand. Therefore, we preprocessed the quotes extracted from Quotebank in a standard NLP pipeline and conducted topic analysis either on quotes from male or from female speakers, to elucidate diverging trends in mentioned topics based on gender.</p>
+
+<p>Some expected and classically gender-associated topics appeared in the topic analysis: In the quotes of women, the topic of lifestyle and fashion appears as a common topic (third topic), which is absent in men’s quotes whereas the topic of sports (seventh topic) and business (sixth topic) is prominent with men but doesn’t crystallize in female quotes.</p>
+
+<div class="row">
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_by/top_quotes_female_gdsmm_topic_6.png" style="width:100%" />
+            </div>
+    </div>
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_by/top_quotes_male_gdsmm_topic_2.png" style="width:100%" />
+            </div>
+    </div>
+</div>
+
+<p>But also the topic of social issues (ethnicity, sexuality, family) is a prominent topic with female speakers but doesn’t clearly show in male quotes. Male speakers are more outwards oriented.</p>
+
+<div class="row">
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_by/top_quotes_female_gdsmm_topic_2.png" style="width:100%" />
+            </div>
+    </div>
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_by/top_quotes_male_gdsmm_topic_6.png" style="width:100%" />
+            </div>
+    </div>
+</div>
+
+<p>If we consider very similar topics in both datasets like business and government, it still seems that in general there is a different spin on how the topics seem to be approached. Female quotes have a community and social aspect, whereas in male quotes it seems to be more focused on either business or politics in the pure sense.</p>
+
+<p>&lt;/div&gt;</p>
+<div class="row">
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_by/top_quotes_female_gdsmm_topic_1.png" style="width:100%" />
+            </div>
+    </div>
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_by/top_quotes_male_gdsmm_topic_5.png" style="width:100%" />
+            </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-3">
+    </div>
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_by/top_quotes_male_gdsmm_topic_1.png" style="width:100%" />
+            </div>
+    </div>
+    <div class="col-lg-3">
+    </div>
+</div>
+
+<p>The number of quotes in common topics still show that women are mentioned far less in classically male-dominated fields like politics, economy, business, and sports. And there are very cliché heavy topics like beauty and lifestyle which appear among the leading topics for female quotes whereas they are very rare for male speakers and vice versa for very male-heavy topics like sports.</p>
+
+<h5 id="proportion-of-quotes-from-each-topic-for-male-and-female-quotes">Proportion of quotes from each topic, for male and female quotes:</h5>
+
+<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/7.embed"></iframe>
+
+<p>We further investigate the distribution of quote numbers of the common  topics found in the whole subset. One interesting aspect is if the topic distribution is strikingly different in right- vs. left-leaning media outlets, which would indicate a different perception of women in the political parties. Another interesting aspect is the gender of the direct producer of the text, one might expect that the gender of the text author might influence his/hers choice of person to quote. The closest and accessible approximation seemed to be the gender of the editor-in-chief of the journal in question, as this person decides on the articles in the media outlet. 
+To explore these notions we first displayed the number of quotes by women or men per topic in journals that are more politically left- or right-leaning and secondly the number of quotes per topic in journals that have either a male or female editor.</p>
+
+<h5 id="distribution-of-topics-by-gender-and-bias-of-journal">Distribution of topics by gender and bias of journal:</h5>
+
+<iframe width="100%" height="1200" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/26.embed"></iframe>
+
+<p>The plots clearly show that the distribution of topics is very similar in the different subset of the overall dataset. It seems that women and men are quoted with a very similar</p>
+
+<h5 id="most-frequent-words-in-quotes-by-women-and-men-in-a-pretty-slideshow">Most frequent words in Quotes by Women and Men in a pretty Slideshow</h5>
+
+<div id="gender_topics_bywomen" class="carousel slide carousel-fade" data-bs-ride="carousel" data-interval="false">
+      <ol class="carousel-indicators">
+          <li data-target="#gender_topics_bywomen" data-slide-to="0" class="active"></li>
+          <li data-target="#gender_topics_bywomen" data-slide-to="1"></li>
+          <li data-target="#gender_topics_bywomen" data-slide-to="2"></li>
+          <li data-target="#gender_topics_bywomen" data-slide-to="3"></li>
+          <li data-target="#gender_topics_bywomen" data-slide-to="4"></li>
+          <li data-target="#gender_topics_bywomen" data-slide-to="5"></li>
+          <li data-target="#gender_topics_bywomen" data-slide-to="6"></li>
+  
+  
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_gdsmm_topic_0.png?raw=true')">
+          <div class="carousel-caption">
+            <p>Health</p>
+          </div>
+        </div>
+        <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_gdsmm_topic_1.png?raw=true')">
+          <div class="carousel-caption">
+            <p>Community issues</p>
+          </div>
+        </div>
+        <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_gdsmm_topic_2.png?raw=true')">
+          <div class="carousel-caption">
+            <p>Social issues</p>
+          </div>
+        </div>
+        <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_gdsmm_topic_3.png?raw=true')">
+          <div class="carousel-caption">
+            <p>Politcs &amp; Elections</p>
+          </div>
+        </div>
+        <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_gdsmm_topic_4.png?raw=true')">
+          <div class="carousel-caption">
+            <p>Personal Stories</p>
+          </div>
+        </div>
+        <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_gdsmm_topic_5.png?raw=true')">
+          <div class="carousel-caption">
+            <p>Family</p>
+          </div>
+        </div>
+        <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_gdsmm_topic_6.png?raw=true')">
+          <div class="carousel-caption">
+            <p>Lifestyle</p>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#gender_topics_bywomen" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#gender_topics_bywomen" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+      </a>
+    </div>
+<div id="gender_topics_bymen" class="carousel slide carousel-fade" data-bs-ride="carousel" data-interval="false">
+  <ol class="carousel-indicators">
+      <li data-target="#gender_topics_bymen" data-slide-to="0" class="active"></li>
+      <li data-target="#gender_topics_bymen" data-slide-to="1"></li>
+      <li data-target="#gender_topics_bymen" data-slide-to="2"></li>
+      <li data-target="#gender_topics_bymen" data-slide-to="3"></li>
+      <li data-target="#gender_topics_bymen" data-slide-to="4"></li>
+      <li data-target="#gender_topics_bymen" data-slide-to="5"></li>
+      <li data-target="#gender_topics_bymen" data-slide-to="6"></li>
+
+
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_gdsmm_topic_0.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Health &amp; Global Issues</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_gdsmm_topic_1.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Politics &amp; Elections</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_gdsmm_topic_2.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Sports</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_gdsmm_topic_3.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Personal Stories</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_gdsmm_topic_4.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Politics</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_gdsmm_topic_5.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Business</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_gdsmm_topic_6.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Family</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#gender_topics_bymen" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#gender_topics_bymen" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<!-- ---
+layout: post
+title: "Quotes about Women and Men"
+# subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+background: ''
+--- -->
+
+<h4 id="quotes-about-women-and-men">Quotes about Women and Men</h4>
+
+<p>Which stories thematizing women make it into an article? Are there recurring themes? 
+What are topics about womenhood that society is wrangling with?
+Can one deduce specific roles women tend to be put in?</p>
+
+<p>Now we have an idea of what female and male speakers talk about when quoted in mainstream media. However, we are still missing a further important aspect of female presence in media: In what context are women or men mentioned. Looking at this notion of the quotes can give us a feeling of how women are viewed in society or rather what image of women (and men) is propagated by US mainstream media. Conversely, maybe there is a lot of fuss about nothing and indeed they are mentioned in very similar settings? To further elucidate this information in the quotes, we created new datasets from the  US mainstream media set, of quotes that mention words that are indicative of either gender like the words ‘man’, ‘boy’, ‘woman’, ‘lady’, ‘him’, ‘she’, etc. and categorized the quotes into either talking-about-men or talking about-woman quotes. 
+We grouped both the quotes about men and women into seven different topics and again, while of course there is quite some overlap between the topics - such as general &amp; lifestyle, family and politics, there are clearly topics reserved to the respective genders. While women appear second most frequently (after the less interpretable cluster termed “general life”) in the context of family &amp; work, the most common topic cluster for men is service (to the country, military,…) paired with work. Surprisingly, for men the second most important cluster centers around family and almost exclusively so, which is contrary to the thematization jointly between work and family for women -  a topic we also know well as a typical societal problem of the family-work balance apparently only women face …</p>
+
+<div class="row">
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_about/top_quotes_female_about_gdsmm_topic_3.png" style="width:100%" />
+            </div>
+    </div>
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_about/top_quotes_male_about_gdsmm_topic_4.png" style="width:100%" />
+            </div>
+    </div>
+</div>
+
+<p>Furthermore, very stereotypically, sports is omnipresent as a “men’s topic” and appears for women only as a minor topic paired with culture and leisure connotation reflecting somewhat the importance of professional sports for male teams as opposed to the limited interest in female sport.</p>
+
+<div class="row">
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_about/top_quotes_female_about_gdsmm_topic_5.png" style="width:100%" />
+            </div>
+    </div>
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_about/top_quotes_male_about_gdsmm_topic_2.png" style="width:100%" />
+            </div>
+    </div>
+</div>
+
+<p>Quite expectedly - but still reassuring to see confirmed here - is the important topic of reproductive rights for women in the USA, which is, in all its specificity the 4th most dominating topic! That says quite a bit about what moves the USA of today…</p>
+
+<div class="row">
+    <div class="col-lg-3">
+    </div>
+    <div class="col-lg-6">
+            <div class="d-block h-100">
+                <img src="https://raw.githubusercontent.com/VFayt99/femedia/master/_includes/post_sections/imgs_about/top_quotes_female_about_gdsmm_topic_0.png" style="width:100%" />
+            </div>
+    </div>
+    <div class="col-lg-3">
+    </div>
+</div>
+
+<p>What is generally observable is that although often the overarching topics are comparable, the connotation and pairing takes interesting twists and makes the devil lie in the detail. An additional example would be politics: For men, this is heavily paired with crime and violence, whereas for women it has a very heavy focus on elections and party politics.</p>
+
+<p>We could keep on going forever, since there are so many interesting details to discover, but browse yourself through the slideshows below!</p>
+
+<div id="gender_topics_aboutwomen" class="carousel slide carousel-fade" data-bs-ride="carousel" data-interval="false">
+    <ol class="carousel-indicators">
+        <li data-target="#gender_topics_aboutwomen" data-slide-to="0" class="active"></li>
+        <li data-target="#gender_topics_aboutwomen" data-slide-to="1"></li>
+        <li data-target="#gender_topics_aboutwomen" data-slide-to="2"></li>
+        <li data-target="#gender_topics_aboutwomen" data-slide-to="3"></li>
+        <li data-target="#gender_topics_aboutwomen" data-slide-to="4"></li>
+        <li data-target="#gender_topics_aboutwomen" data-slide-to="5"></li>
+        <li data-target="#gender_topics_aboutwomen" data-slide-to="6"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_about_gdsmm_topic_0.png?raw=true')">
+        <div class="carousel-caption">
+          <p>Health Care and Reproductive Rights</p>
+        </div>
+      </div>
+      <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_about_gdsmm_topic_1.png?raw=true')">
+        <div class="carousel-caption">
+          <p>General life</p>
+        </div>
+      </div>
+      <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_about_gdsmm_topic_2.png?raw=true')">
+        <div class="carousel-caption">
+          <p>Politics</p>
+        </div>
+      </div>
+      <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_about_gdsmm_topic_3.png?raw=true')">
+        <div class="carousel-caption">
+          <p>Family and Work</p>
+        </div>
+      </div>
+      <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_about_gdsmm_topic_4.png?raw=true')">
+        <div class="carousel-caption">
+          <p>Gender issues</p>
+        </div>
+      </div>
+      <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_about_gdsmm_topic_5.png?raw=true')">
+        <div class="carousel-caption">
+          <p>Sports and Leisure</p>
+        </div>
+      </div>
+      <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_female_about_gdsmm_topic_6.png?raw=true')">
+        <div class="carousel-caption">
+          <p>"Child-kill-Police" - Immigration? </p>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#gender_topics_aboutwomen" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#gender_topics_aboutwomen" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+  </div>
+<div id="gender_topics_aboutmen" class="carousel slide carousel-fade" data-bs-ride="carousel" data-interval="false">
+  <ol class="carousel-indicators">
+      <li data-target="#gender_topics_aboutmen" data-slide-to="0" class="active"></li>
+      <li data-target="#gender_topics_aboutmen" data-slide-to="1"></li>
+      <li data-target="#gender_topics_aboutmen" data-slide-to="2"></li>
+      <li data-target="#gender_topics_aboutmen" data-slide-to="3"></li>
+      <li data-target="#gender_topics_aboutmen" data-slide-to="4"></li>
+      <li data-target="#gender_topics_aboutmen" data-slide-to="5"></li>
+      <li data-target="#gender_topics_aboutmen" data-slide-to="6"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_about_gdsmm_topic_0.png?raw=true')">
+      <div class="carousel-caption">
+        <p>General Lifestyle</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_about_gdsmm_topic_1.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Sexuality</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_about_gdsmm_topic_2.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Sports and Competition</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_about_gdsmm_topic_3.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Service to Country and Work </p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_about_gdsmm_topic_4.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Familiy</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_about_gdsmm_topic_5.png?raw=true')">
+      <div class="carousel-caption">
+        <p>Police and Politics</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="background-image: url('https://github.com/VFayt99/femedia/blob/master/img/carousel/top_quotes_male_about_gdsmm_topic_6.png?raw=true')">
+      <div class="carousel-caption">
+        <p>"Child-border-police" - Immigration? </p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#gender_topics_aboutmen" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#gender_topics_aboutmen" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<h5 id="quotes-about-women-and-men-in-the-context-of-editors-gender-and-political-bias">Quotes about Women and Men in the context of Editor’s Gender and Political Bias</h5>
+
+<p>From this analysis, we can still see that gender representation in media is still not ideally balanced in many aspects. So far, we have considered the content of the quotes only on the whole common US media outlets. But do these observations apply equally in journals of different political bias?
+Although the general trend is not overwhelmingly different, there are a few oddities: We need to be careful due to the imbalance in first of all right-leaning vs. left-leaning media in the most frequented subset we present here. Looking back at the INTERACTIVE PLOT BY VLAD, you can see that within the right-leaning portion of media, there are no life-style magazines, such as Vanity Fair, Refinery29, etc. potentially covering different types of stories far away from political issues, so this may skew the data. Nevertheless, it is quite remarkable how politics and health &amp; reproductive rights issues are heavily overrepresented in the right-leaning media compared to the overall and left-leaning dataset.</p>
+
+<iframe width="100%" height="1200" frameborder="0" scrolling="yes" src="//plotly.com/~natasakrco/28.embed"></iframe>
+
+<p>For men, one cannot observe such any big shift in topic distributions.
+The gender of editors however, has so far no determinable influence on the story choice, hence the representation about men and women. Likely, other factors such as the type of magazine and the author have a higher impact, but this could not be determined in the course of this study.</p>
+
+:ET
