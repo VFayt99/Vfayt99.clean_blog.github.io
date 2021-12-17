@@ -12,7 +12,7 @@ What are topics about womenhood that society is wrangling with?
 Can one deduce specific roles women tend to be put in?
 
 
-##### Most frequent words in Quotes by Women and Men
+##### Most frequent words in Quotes about Women and Men
 
 {% include post_sections/carousel1.html %} {% include post_sections/carousel2.html %}
 
