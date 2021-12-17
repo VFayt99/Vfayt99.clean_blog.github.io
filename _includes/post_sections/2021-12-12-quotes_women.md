@@ -13,9 +13,9 @@ Proportion of quotes from each topic, for male and female quotes:
 
 Distribution of topics by gender and bias of journal:
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/11.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="yes" src="//plotly.com/~natasakrco/11.embed"></iframe>
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/14.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="ye" src="//plotly.com/~natasakrco/14.embed"></iframe>
 
 
 ##### Most frequent words in Quotes by Women and Men
