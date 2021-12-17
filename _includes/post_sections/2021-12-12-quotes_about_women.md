@@ -11,3 +11,5 @@ Which stories thematizing women make it into an article? Are there recurring the
 What are topics about womenhood that society is wrangling with?
 Can one deduce specific roles women tend to be put in?
 
+{% include post_sections/carousel1.html %} {% include post_sections/carousel2.html %}
+
