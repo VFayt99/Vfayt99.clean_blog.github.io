@@ -10,3 +10,8 @@ background: ''
 Proportion of quotes from each topic, for male and female quotes:
 
 <iframe width="900" height="500" frameborder="0" scrolling="no" src="//plotly.com/~natasakrco/7.embed"></iframe>
+
+
+##### Most frequent words in Quotes by Women and Men
+
+{% include post_sections/carousel_topicybymen.html %} {% include post_sections/carousel_topicybywomen.html %}
